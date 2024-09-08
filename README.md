@@ -27,3 +27,60 @@ This Loan Management System is a Java-based application designed to manage loans
 
 4. Follow the on-screen instructions to interact with the Loan Management System.
 
+Sample Output
+---------------
+Enter your monthly salary (₹): 60000
+
+Select Loan Type:
+1. Home
+2. Car
+3. Gold
+4. Personal
+2
+
+Enter loan amount (₹): 2000000
+Enter interest rate (%): 8
+Enter loan term (in years): 5
+
+You are eligible for a Car loan.
+
+Choose an operation:
+1. Make a Payment
+2. Display Loan Details
+3. Check Loan Status
+4. Exit
+1
+Enter payment amount (₹): 50000
+Payment successful! Remaining balance: ₹19,50,000
+
+Choose an operation:
+1. Make a Payment
+2. Display Loan Details
+3. Check Loan Status
+4. Exit
+2
+Loan Type: Car
+Loan Amount: ₹20,00,000
+Interest Rate: 8.0%
+Loan Term: 5 years
+Remaining Amount: ₹19,50,000
+Minimum Monthly Installment: ₹40,000
+
+Choose an operation:
+1. Make a Payment
+2. Display Loan Details
+3. Check Loan Status
+4. Exit
+3
+Loan is still active.
+
+Choose an operation:
+1. Make a Payment
+2. Display Loan Details
+3. Check Loan Status
+4. Exit
+4
+Exiting...
+
+Contact:
+For any feedback or questions please reach out to farazsyed261@gmail.com 
